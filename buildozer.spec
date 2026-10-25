@@ -3,6 +3,10 @@
 
 [app]
 
+[app]
+title = Image Reaper
+icon.filename = icon.png
+
 # (str) Title of your application
 title = Image Reaper
 
